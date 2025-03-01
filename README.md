@@ -1,4 +1,4 @@
-# ó🐳 Estudos sobre Docker
+# Ó🐳Estudos sobre Docker
 
 Este repositório contém meus estudos sobre Docker com base no curso [**Docker para Desenvolvedores com Docker Swarm e Kubernetes**](https://www.udemy.com/course/docker-para-desenvolvedores-com-docker-swarm-e-kubernetes/?couponCode=KEEPLEARNINGBR) ministrado por Matheus Battisti na Udemy.
 
