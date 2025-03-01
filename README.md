@@ -1,4 +1,4 @@
-# Ó🐳Estudos sobre Docker
+# 🐳Estudos sobre Docker
 
 Este repositório contém meus estudos sobre Docker com base no curso [**Docker para Desenvolvedores com Docker Swarm e Kubernetes**](https://www.udemy.com/course/docker-para-desenvolvedores-com-docker-swarm-e-kubernetes/?couponCode=KEEPLEARNINGBR) ministrado por Matheus Battisti na Udemy.
 
@@ -41,11 +41,11 @@ Docker é uma plataforma de código aberto que permite empacotar, distribuir e e
 
 ### 💡 Principais vantagens:
 
-✅ **Portabilidade**: Funciona da mesma forma em qualquer ambiente
-✅ **Eficiência**: Reduz a necessidade de configurações complexas
-✅ **Escalabilidade**: Facilita a orquestração de múltiplos containers
-✅ **Colaboração**: Compartilhamento facilitado de ambientes de desenvolvimento
-✅ **Compatibilidade com a Nuvem**: Funciona em diferentes provedores cloud
+- ✅ **Portabilidade**: Funciona da mesma forma em qualquer ambiente
+- ✅ **Eficiência**: Reduz a necessidade de configurações complexas
+- ✅ **Escalabilidade**: Facilita a orquestração de múltiplos containers
+- ✅ **Colaboração**: Compartilhamento facilitado de ambientes de desenvolvimento
+- ✅ **Compatibilidade com a Nuvem**: Funciona em diferentes provedores cloud
 
 ---
 
